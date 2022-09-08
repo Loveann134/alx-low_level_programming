@@ -1,6 +1,5 @@
 #!/bin/bash
 #include <studio.h>
-
 /**
  * main - Printing with c 
  *
